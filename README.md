@@ -1,6 +1,6 @@
 # Project Move.It 
 ### Event Next Level Week - nlw4 - @Rocketseat
-![](img/Captura%20de%20tela%20de%202020-12-06%2014-33-57.png)
+<img src="https://github.com/josegcmoraes/moveit-next/blob/master/img_proj/Wallpaper%20-%201440x900.png" width="640" height="400">
 
 ### Description
 * In this application, the pomodoro technique was developed, when we finish an activity 
