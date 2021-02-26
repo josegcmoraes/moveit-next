@@ -2,6 +2,9 @@
 ### Event Next Level Week - nlw4 - @Rocketseat
 <img src="https://github.com/josegcmoraes/moveit-next/blob/master/img_proj/Wallpaper%20-%201440x900.png" width="640" height="400">
 
+### Link Site
+https://moveit-peach-three.vercel.app/
+
 ### Description
 * In this application, the pomodoro technique was developed, when we finish an activity 
 we win a challenge that, if completed, increades the experience.
@@ -11,7 +14,8 @@ the person not to feel exhausted and restore their energy to return to do the ac
 motivated to complete them.
 
 ### Languages used
-Next.js, React.js, JavaScript, Css, Html
+* Next.js, React.js, JavaScript, Css, Html
+* Deploy with Versel
 
 ### How to run the project
 * First, clone or download this project
